@@ -4,6 +4,7 @@
 * This application is more than scanning and generating a QR code. The idea of the project is to provide a tracking and delivery system for carpet cleaning companies and their customers.
 * Since project requires both Mobile and Web platforms, I only assigned two people(myself and my friend Rian) from our five member team to Mobile part because most of the work were in Web part.
 * Auth system and UI design of the mobile application done by my friend Rian. Rest of the mobile part developed by me.
+* The reason why there is no register button is, well, employees can't register themselves. Their manager's must do it from the web app. This is where we register employees.
 
 <h1 align="center"> 
   Login 
