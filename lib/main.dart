@@ -26,15 +26,16 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
     ]);
 
     if (doesUserExist) {
-      return const MaterialApp(home: Home());
+      return const MaterialApp(home: Home(), debugShowCheckedModeBanner: false);
     } else {
-      return const MaterialApp(home: LoginPage());
+      return const MaterialApp(home: LoginPage(), debugShowCheckedModeBanner: false);
     }
   }
 }
