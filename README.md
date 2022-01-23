@@ -61,6 +61,32 @@
   What happens on Firestore Cloud? 
 </h1>
 <p align="center">
-  <img src="screenshots/firebase_beforeEdit.jpeg" height="320" style="vertical-align:down; margin:4px">
-  <img src="screenshots/firebase_afterEdit.jpeg" height="320"  style="vertical-align:down; margin:4px">
+  <img src="screenshots/firebase_beforeEdit.jpeg" width="450" style="vertical-align:down; margin:4px">
+  <img src="screenshots/firebase_afterEdit.jpeg" width="450"  style="vertical-align:down; margin:4px">
 </p>
+
+
+<h1 align="center"> 
+  Generate QR Code
+</h1>
+<p align="center">
+  <img src="screenshots/home_generateQR.jpeg" width="315" style="vertical-align:down; margin:4px">
+  <img src="screenshots/home_generateQR_emptyFields.jpeg" width="315" style="vertical-align:down; margin:4px">
+</p>
+
+<h1 align="center"> 
+  Generate QR Code - (Click to Generate)
+</h1>
+<p align="center">
+  <img src="screenshots/home_generateQR_clickGenerate.jpeg" width="315" style="vertical-align:down; margin:4px">
+  <img src="screenshots/home_generateQR_clickGenerate_getQR.jpeg" width="315" style="vertical-align:down; margin:4px">
+</p>
+
+<h1 align="center"> 
+  Logout - (Pressing Logout Button)
+</h1>
+<p align="center">
+  <img src="screenshots/home_clickExit.jpeg" width="315" style="vertical-align:down; margin:4px">
+  <img src="screenshots/home_clickExit_success.jpeg" width="315" style="vertical-align:down; margin:4px">
+</p>
+
