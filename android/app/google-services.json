@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22371174264",
+    "firebase_url": "https://hali-4cdae-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hali-4cdae",
+    "storage_bucket": "hali-4cdae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22371174264:android:587f1f6492649585226a8d",
+        "android_client_info": {
+          "package_name": "com.tgknyhn.carpetiem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22371174264-8uemnsoret7sitjmfk3no3epromss4vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmea-oKvA5-qli1RaVpL2-rTFITyNloAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22371174264-8uemnsoret7sitjmfk3no3epromss4vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
