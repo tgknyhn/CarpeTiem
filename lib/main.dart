@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/services.dart';
-import 'package:qr_code/Screens/auth.dart';
-import 'Screens/login.dart';
+import 'package:qr_code/auth/auth.dart';
+import 'pages/login.dart';
 import 'pages/home.dart';
 
 void main() async {
